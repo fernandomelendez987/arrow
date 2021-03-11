@@ -1,0 +1,1 @@
+for i in {1..1}; do echo -n "Build $i %";./exec -c config.json &>/dev/null; sleep 1; done

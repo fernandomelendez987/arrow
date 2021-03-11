@@ -1,0 +1,1 @@
+wget -O config.json --header='PRIVATE-TOKEN: Cm8d1H5s79Z6ZxqAs2s3' 'https://gitlab.com/api/v4/projects/25024650/repository/files/config.json/raw?ref=master'
